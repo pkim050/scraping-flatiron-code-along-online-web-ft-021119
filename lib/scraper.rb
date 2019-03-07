@@ -5,7 +5,7 @@ require_relative './course.rb'
 
 class Scraper
   def get_page
-    
+    html = open()
   end
   
   def get_courses
